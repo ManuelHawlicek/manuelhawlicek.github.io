@@ -112,6 +112,17 @@ body
     color: #fff;
     font-weight: 300;
 }
+.contactInfo ul li span a.nav-link:link
+{   
+    color: #fff;
+    font-weight: 300;
+}
+.contactInfo ul li span a.nav-link:visited
+{   
+    color: rgb(93, 93, 93);
+    font-weight: 300;
+}
+
 .contactInfo.education li
 {
     margin-bottom: 15px;
