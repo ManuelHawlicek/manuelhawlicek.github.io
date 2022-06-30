@@ -224,8 +224,12 @@ p
     color: #2a7da2;
     font-size: 16px;
 }
-.about .box .text span
+.about .box .text p
 {
+    padding-bottom: 7px;
+}
+.about .box .text span
+{   
     Text-transform:  uppercase;
     color: #2a7da2;
     font-size: 16px;
